@@ -4,6 +4,7 @@ This repo contains several Python tutorials for data analysis tasks.
 - [Quick Reference to Python](http://www.dataschool.io/python-quick-reference/)
 - [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
 - [Data Exploration with Numpy cheat sheet](http://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python)
+- [NLP](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 
 ##scikit-learn
 - [Awesome Tutorials!](http://blog.kaggle.com/author/kevin-markham/)
