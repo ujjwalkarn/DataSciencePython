@@ -10,6 +10,7 @@ This repo contains several Python tutorials for data analysis tasks.
 
 ##Machine Learning
 - [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+- [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 
 ##Linear Regression
 - [Linear Regression in Python](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb), [Blog Post](http://www.dataschool.io/linear-regression-in-python/)
