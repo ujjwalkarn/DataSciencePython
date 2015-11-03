@@ -5,6 +5,8 @@ This repo contains several Python tutorials for data analysis tasks.
 - [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
 - [Data Exploration with Numpy cheat sheet](http://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python)
 - [NLP](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
+- [Querying Craiglist with Python](http://chrisholdgraf.com/querying-craigslist-with-python/?imm_mid=0d8940&cmp=em-data-na-na-newsltr_20150916)
+- [Create NBA Shot Charts](http://savvastjortjoglou.com/nba-shot-sharts.html)
 
 ##scikit-learn
 - [Awesome Tutorials!](http://blog.kaggle.com/author/kevin-markham/)
