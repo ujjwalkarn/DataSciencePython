@@ -10,6 +10,7 @@ This repo contains several Python tutorials for data analysis tasks.
 
 ##scikit-learn
 - [Awesome Tutorials!](http://blog.kaggle.com/author/kevin-markham/)
+- [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
 
 ##Machine Learning
 - [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
