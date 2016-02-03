@@ -8,6 +8,7 @@ This repo contains several Python tutorials for data analysis tasks.
 - [NLP](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 - [Querying Craiglist with Python](http://chrisholdgraf.com/querying-craigslist-with-python/?imm_mid=0d8940&cmp=em-data-na-na-newsltr_20150916)
 - [Create NBA Shot Charts](http://savvastjortjoglou.com/nba-shot-sharts.html)
+- [PythoR- Python meets R](http://nipunbatra.github.io/2016/01/pythor/)
 
 ##scikit-learn
 - [Awesome Tutorials!](http://blog.kaggle.com/author/kevin-markham/)
