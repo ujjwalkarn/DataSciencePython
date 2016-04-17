@@ -30,6 +30,14 @@ This repo contains several Python tutorials for data analysis tasks.
 - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
 - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
 
+##Pickle
+- [Python serialization - Why pickle?](http://stackoverflow.com/questions/8968884/python-serialization-why-pickle)
+- [**Serializing Python Objects**](http://www.diveinto.org/python3/serializing.html), [**Binary Files**](http://www.diveinto.org/python3/files.html#binary)
+- [What is Pickle in python ?](https://pythontips.com/2013/08/02/what-is-pickle-in-python/)
+- [How to cPickle dump and load separate dictionaries to the same file?](http://stackoverflow.com/questions/11641493/how-to-cpickle-dump-and-load-separate-dictionaries-to-the-same-file)
+- [**Understanding Pickling in Python**](http://stackoverflow.com/questions/7501947/understanding-pickling-in-python)
+
+
 ##Regex Related
 - [RegExr](http://regexr.com/)
 - [Regex101](https://regex101.com/)
