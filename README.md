@@ -14,6 +14,7 @@ This repo contains several Python tutorials for data analysis tasks.
 - [Awesome Tutorials!](http://blog.kaggle.com/author/kevin-markham/)
 - [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
 - [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets.](https://github.com/rhiever/sklearn-benchmarks)
+- [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
 
 ##Machine Learning
 - [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
