@@ -10,6 +10,9 @@ This repo contains several Python tutorials for data analysis tasks.
 - [Create NBA Shot Charts](http://savvastjortjoglou.com/nba-shot-sharts.html)
 - [PythoR- Python meets R](http://nipunbatra.github.io/2016/01/pythor/)
 
+##Language
+- [**What does the yield keyword do in Python?**](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
+
 ##scikit-learn
 - [Awesome Tutorials!](http://blog.kaggle.com/author/kevin-markham/)
 - [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
