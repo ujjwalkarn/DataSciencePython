@@ -32,6 +32,7 @@ This repo contains several Python tutorials for data analysis tasks.
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
 
 ##Text Mining
+- [**NLP with Python ORiley Book**](http://www.nltk.org/book_1ed/), [Python 3](http://www.nltk.org/book/)
 - [Text Analytics : Intro and Tokenization](http://a4analytics.blogspot.sg/2015/03/text-mining-post-1.html)
 - [NLTK BOOK](http://www.nltk.org/book/ch01.html)
 - [Elegant N-gram Generation in Python](http://locallyoptimal.com/blog/2013/01/20/elegant-n-gram-generation-in-python/)
