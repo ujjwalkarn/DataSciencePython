@@ -6,6 +6,7 @@ This repo contains several Python tutorials for data analysis tasks.
 - [**What does the yield keyword do in Python?**](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
 - [Parsing values from a JSON file in Python](http://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python)
 - [**Python Quora FAQs**](https://www.quora.com/topic/Python-programming-language-1)
+- [time-complexity of various operations - list/dict - in current CPython](https://wiki.python.org/moin/TimeComplexity)
 
 ##Data Science with Python
 - [awesome-python](https://github.com/vinta/awesome-python)
