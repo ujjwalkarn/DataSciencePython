@@ -1,7 +1,13 @@
 This repo contains several Python tutorials for data analysis tasks.
 
-##General Stuff
+##Language
+- [HIGHEST VOTED](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
 - [Quick Reference to Python](http://www.dataschool.io/python-quick-reference/)
+- [**What does the yield keyword do in Python?**](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
+- [Parsing values from a JSON file in Python](http://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python)
+- [**Python Quora FAQs**](https://www.quora.com/topic/Python-programming-language-1)
+
+##Data Science with Python
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
 - [Data Exploration with Numpy cheat sheet](http://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python)
@@ -9,13 +15,14 @@ This repo contains several Python tutorials for data analysis tasks.
 - [Querying Craiglist with Python](http://chrisholdgraf.com/querying-craigslist-with-python/?imm_mid=0d8940&cmp=em-data-na-na-newsltr_20150916)
 - [Create NBA Shot Charts](http://savvastjortjoglou.com/nba-shot-sharts.html)
 - [PythoR- Python meets R](http://nipunbatra.github.io/2016/01/pythor/)
+- [**How do I learn data analysis with Python?**](https://www.quora.com/How-do-I-learn-data-analysis-with-Python?redirected_qid=2464720)
+- [What are some interesting things to do with Python?](https://www.quora.com/Python-programming-language-What-are-some-interesting-things-to-do-with-Python?redirected_qid=2324227)
+- [**Which is better for data analysis: R or Python?**](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
 
 ##Pandas
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 - [Timeseries analysis using Pandas](http://nbviewer.jupyter.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb)
 
-##Language
-- [**What does the yield keyword do in Python?**](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
 
 ##scikit-learn
 - [Awesome Tutorials!](http://blog.kaggle.com/author/kevin-markham/)
