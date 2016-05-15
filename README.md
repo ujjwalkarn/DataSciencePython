@@ -31,6 +31,13 @@ This repo contains several Python tutorials for data analysis tasks.
 - [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets.](https://github.com/rhiever/sklearn-benchmarks)
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
 
+##Text Mining
+- [Text Analytics : Intro and Tokenization](http://a4analytics.blogspot.sg/2015/03/text-mining-post-1.html)
+- [NLTK BOOK](http://www.nltk.org/book/ch01.html)
+- [Elegant N-gram Generation in Python](http://locallyoptimal.com/blog/2013/01/20/elegant-n-gram-generation-in-python/)
+- [**Computing N Grams using Python**](http://stackoverflow.com/questions/13423919/computing-n-grams-using-python)
+- [N-grams: Explanation + 2 applications](http://stackoverflow.com/questions/1032288/n-grams-explanation-2-applications)
+
 ##Sentiment Analysis
 - [Twitter-Sentiment-Analysis](https://github.com/ujjwalkarn/Twitter-Sentiment-Analysis)
 
