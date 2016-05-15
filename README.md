@@ -10,6 +10,9 @@ This repo contains several Python tutorials for data analysis tasks.
 - [Create NBA Shot Charts](http://savvastjortjoglou.com/nba-shot-sharts.html)
 - [PythoR- Python meets R](http://nipunbatra.github.io/2016/01/pythor/)
 
+##Pandas
+- [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+
 ##Language
 - [**What does the yield keyword do in Python?**](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
 
