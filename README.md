@@ -17,6 +17,8 @@ This repo contains several Python tutorials for data analysis tasks.
 ##ML with Python
 - [**AWESOME Python Machine Learning Book**](https://github.com/rasbt/python-machine-learning-book)
 - [Table of Contents and Code Notebooks](https://github.com/rasbt/python-machine-learning-book/blob/master/README.md#table-of-contents-and-code-notebooks)
+- [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+- [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 
 ##Data Science with Python
 - [awesome-python](https://github.com/vinta/awesome-python)
@@ -58,9 +60,6 @@ This repo contains several Python tutorials for data analysis tasks.
 ##Sentiment Analysis
 - [Twitter-Sentiment-Analysis](https://github.com/ujjwalkarn/Twitter-Sentiment-Analysis)
 
-##Machine Learning
-- [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
-- [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 
 ##Linear Regression
 - [Linear Regression in Python](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb), [Blog Post](http://www.dataschool.io/linear-regression-in-python/)
