@@ -85,6 +85,8 @@ This repo contains several Python tutorials for data analysis tasks.
 - [RegExr](http://regexr.com/)
 - [Regex101](https://regex101.com/)
 - [Pythex](http://pythex.org/)
+- [How to use Regular Expressions (Regex) in Microsoft Excel both in-cell and loops](http://stackoverflow.com/questions/22542834/how-to-use-regular-expressions-regex-in-microsoft-excel-both-in-cell-and-loops)
+- [Advanced Filters: Excel’s Amazing Alternative To Regex](http://searchengineland.com/advanced-filters-excels-amazing-alternative-to-regex-143680)
 
 ##Shell Scripting
 - [**Calling an external command in Python**](http://stackoverflow.com/questions/89228/calling-an-external-command-in-python)
