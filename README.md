@@ -33,10 +33,14 @@ This repo contains several Python tutorials for data analysis tasks.
 
 
 ##scikit-learn
+- [Wiki](https://en.wikipedia.org/wiki/Scikit-learn)
 - [**Introduction to machine learning with scikit-learn**](https://github.com/justmarkham/scikit-learn-videos), [**Videos!**](http://blog.kaggle.com/author/kevin-markham/)
+- [**A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library**](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 - [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
 - [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets.](https://github.com/rhiever/sklearn-benchmarks)
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
+- [**ML with scikit learn**](http://amueller.github.io/sklearn_tutorial/)
+- [Parallel and Large Scale Machine Learning with scikit-learn](https://speakerdeck.com/ogrisel/parallel-and-large-scale-machine-learning-with-scikit-learn), [Meetup](http://datasciencelondon.org/machine-learning-python-scikit-learn-ipython-dsldn-data-science-london-kaggle/)
 
 ##Text Mining
 - [**NLP with Python ORiley Book**](http://www.nltk.org/book_1ed/), [Python 3](http://www.nltk.org/book/)
