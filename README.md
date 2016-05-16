@@ -14,6 +14,7 @@ This repo contains several Python tutorials for data analysis tasks.
 - [Data Exploration with Numpy cheat sheet](http://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python)
 - [NLP](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 - [Querying Craiglist with Python](http://chrisholdgraf.com/querying-craigslist-with-python/?imm_mid=0d8940&cmp=em-data-na-na-newsltr_20150916)
+- [**An introduction to Numpy and Scipy**](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
 - [Create NBA Shot Charts](http://savvastjortjoglou.com/nba-shot-sharts.html)
 - [PythoR- Python meets R](http://nipunbatra.github.io/2016/01/pythor/)
 - [**How do I learn data analysis with Python?**](https://www.quora.com/How-do-I-learn-data-analysis-with-Python?redirected_qid=2464720)
