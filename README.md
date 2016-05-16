@@ -1,12 +1,17 @@
 This repo contains several Python tutorials for data analysis tasks.
 
 ##Language
+- [**Dive Into Python**](http://www.diveintopython.net/index.html)
 - [HIGHEST VOTED](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
 - [Quick Reference to Python](http://www.dataschool.io/python-quick-reference/)
 - [**What does the yield keyword do in Python?**](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
 - [Parsing values from a JSON file in Python](http://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python)
 - [**Python Quora FAQs**](https://www.quora.com/topic/Python-programming-language-1)
 - [time-complexity of various operations - list/dict - in current CPython](https://wiki.python.org/moin/TimeComplexity)
+- Scripting
+    - [Python Scripting Tutorial](http://www.dreamsyssoft.com/python-scripting-tutorial/intro-tutorial.php)
+    - [Scripting with Python](https://www.schrodinger.com//AcrobatFile.php?type=supportdocs&type2=&ident=404)
+    - [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
 
 ##Data Science with Python
 - [awesome-python](https://github.com/vinta/awesome-python)
@@ -71,3 +76,16 @@ This repo contains several Python tutorials for data analysis tasks.
 - [RegExr](http://regexr.com/)
 - [Regex101](https://regex101.com/)
 - [Pythex](http://pythex.org/)
+
+##Shell Scripting
+- [**Calling an external command in Python**](http://stackoverflow.com/questions/89228/calling-an-external-command-in-python)
+- [**Running shell command from Python and capturing the output**](http://stackoverflow.com/questions/4760215/running-shell-command-from-python-and-capturing-the-output)
+- [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
+- [Python Scripts as a Replacement for Bash Utility Scripts](http://www.linuxjournal.com/content/python-scripts-replacement-bash-utility-scripts)
+- [How to Write a Shell Script using Bash Shell in Ubuntu](https://www.youtube.com/watch?v=He-5BpUGSag)
+- Red Hat Magazine | Python for Bash scripters: A well-kept secret
+- [Embed bash in python](http://stackoverflow.com/questions/2651874/embed-bash-in-python)
+- [Bash2py: A Bash to Python Translator](https://cs.uwaterloo.ca/~ijdavis/bash2py-final.pdf)
+- [Beginners/BashScripting](https://help.ubuntu.com/community/Beginners/BashScripting)
+- [The Beginner’s Guide to Shell Scripting: The Basics](http://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/)
+- [Linux Shell Scripting Tutorial v1.05r3 A Beginner's handbook](http://www.freeos.com/guides/lsst/)
