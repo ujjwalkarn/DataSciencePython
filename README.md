@@ -25,6 +25,7 @@
 - [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 - [Machine Learning Algorithms Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [**How to compute precision, recall, accuracy and f1-score for the multiclass case with scikit learn?**](http://stackoverflow.com/questions/31421413/how-to-compute-precision-recall-accuracy-and-f1-score-for-the-multiclass-case)
+- [One Hot Encoding for Machine learning in Python](http://stackoverflow.com/questions/17469835/one-hot-encoding-for-machine-learning)
 
 ##scikit-learn
 - [scikit learn on Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
@@ -36,16 +37,18 @@
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
 - [**Machine Learning with scikit learn tutorial**](http://amueller.github.io/sklearn_tutorial/)
 - [Parallel and Large Scale Machine Learning with scikit-learn](https://speakerdeck.com/ogrisel/parallel-and-large-scale-machine-learning-with-scikit-learn), [Meetup](http://datasciencelondon.org/machine-learning-python-scikit-learn-ipython-dsldn-data-science-london-kaggle/)
+- [Saving classifier to disk in scikit-learn](http://stackoverflow.com/questions/10592605/save-classifier-to-disk-in-scikit-learn)
 
 
-##Linear Regression
+##Linear Regression in Python
 - [Linear Regression in Python](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb), [Blog Post](http://www.dataschool.io/linear-regression-in-python/)
 - [Linear Regression using Scikit Learn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 - [A friendly introduction to linear regression (using Python)](http://www.dataschool.io/linear-regression-in-python/)
 - [Linear Regression Example in Python](http://scipy-cookbook.readthedocs.io/items/LinearRegression.html)
 - [Regression analysis using Python StatsModels package](http://www.turingfinance.com/regression-analysis-using-python-statsmodels-and-quandl/)
+- [Run an OLS regression with Pandas Data Frame](http://stackoverflow.com/questions/19991445/run-an-ols-regression-with-pandas-data-frame)
 
-##Logistic Regression
+##Logistic Regression in Python
 - [Logistic Regression with scikit learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
 - [Implementing the softmax function in Python](http://stackoverflow.com/questions/34968722/softmax-function-python)
 - [**What is the inverse of regularization strength in Logistic Regression? How should it affect my code?**](http://stackoverflow.com/questions/22851316/what-is-the-inverse-of-regularization-strength-in-logistic-regression-how-shoul)
@@ -54,7 +57,7 @@
 - [TUTORIAL ON LOGISTIC REGRESSION AND OPTIMIZATION IN PYTHON](https://learningwithdata.wordpress.com/2015/04/30/tutorial-on-logistic-regression-and-optimization-in-python/)
 - [Using Logistic Regression in Python for Data Science](http://www.dummies.com/how-to/content/using-logistic-regression-in-python-for-data-scien.html)
 
-##k Nearest Neighbours
+##k Nearest Neighbours in Python
 - [A good tutorial on implementing K Nearest Neighbors using scikit learn](http://scikit-learn.org/stable/modules/neighbors.html)
 - [**Is it possible to specify your own distance function using scikit-learn K-Means Clustering?**](http://stackoverflow.com/questions/5529625/is-it-possible-to-specify-your-own-distance-function-using-scikit-learn-k-means)
 - [Tutorial To Implement k-Nearest Neighbors in Python From Scratch](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
@@ -64,15 +67,26 @@
 - [Sklearn kNN usage with a user defined metric](http://stackoverflow.com/questions/21052509/sklearn-knn-usage-with-a-user-defined-metric)
 
 
-
-##Neural Networks
+##Neural Networks in Python
 - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
 - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
 - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
 
 
+##Decision Trees in Python
+- [How to extract the decision rules from scikit-learn decision-tree?](http://stackoverflow.com/questions/20224526/how-to-extract-the-decision-rules-from-scikit-learn-decision-tree)
+- [**How do I find which attributes my tree splits on, when using scikit-learn?**](http://stackoverflow.com/questions/20156951/how-do-i-find-which-attributes-my-tree-splits-on-when-using-scikit-learn)
+- [Quora: What is a good Python library for decision trees?](https://www.quora.com/What-is-a-good-Python-library-for-decision-trees), [StackOverflow](http://stackoverflow.com/questions/3127922/what-is-a-good-python-library-for-decision-trees) 
+- [Building Decision Trees in Python](http://www.onlamp.com/pub/a/python/2006/02/09/ai_decision_trees.html?page=1)
+- [Pure Python Decision Trees](http://kldavenport.com/pure-python-decision-trees/)
+- [Building a decision tree from scratch in Python - a beginner's tutorial](http://www.patricklamle.com/Tutorials/Decision%20tree%20python/tuto_decision%20tree.html)
+- [Using Python to Build and Use a Simple Decision Tree Classifier](https://github.com/gumption/Python_for_Data_Science/blob/master/4_Python_Simple_Decision_Tree.ipynb)
+- [Decision trees in python with scikit-learn and pandas](http://chrisstrelioff.ws/sandbox/2015/06/08/decision_trees_in_python_with_scikit_learn_and_pandas.html)
+
+
 ##Data Science with Python
 - [awesome-python](https://github.com/vinta/awesome-python)
+- [Python for Data Science: Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/2_Data_Science_Basic_Concepts.ipynb)
 - [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
 - [**5 important Python Data Science advancements of 2015**](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.sp2c1la9z)
 - [Data Exploration with Numpy cheat sheet](http://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python)
