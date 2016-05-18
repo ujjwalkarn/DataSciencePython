@@ -85,7 +85,7 @@
 - [Decision trees in python with scikit-learn and pandas](http://chrisstrelioff.ws/sandbox/2015/06/08/decision_trees_in_python_with_scikit_learn_and_pandas.html)
 - [Code for simple decision tree in Python](https://github.com/gumption/Python_for_Data_Science/blob/master/simple_decision_tree.py)
 
-##Random FOrest with Python
+##Random Forest with Python
 - [Getting Started with Random Forests: Titanic Competition on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests), [Python sample code](https://www.kaggle.com/c/digit-recognizer/forums/t/2299/getting-started-python-sample-code-random-forest)
 - [RandomForestClassifier vs ExtraTreesClassifier in scikit learn](http://stackoverflow.com/questions/22409855/randomforestclassifier-vs-extratreesclassifier-in-scikit-learn)
 - [Powerful Guide to learn Random Forest](http://www.analyticsvidhya.com/blog/2015/09/random-forest-algorithm-multiple-challenges/)
