@@ -132,15 +132,15 @@
 - Quick Operations on a Pandas DataFrame
     - [Renaming Columns in Pandas](http://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
     - [Deleting Columns from pandas DataFrame](http://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe)
-    - [Adding new Column to existing DataFrame in Python pandas](http://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas)
+    - [Adding new Column to existing DataFrame](http://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas)
     - [Add one Row in a pandas.DataFrame](http://stackoverflow.com/questions/10715965/add-one-row-in-a-pandas-dataframe)
     - [Changing the order of DataFrame Columns](http://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns)
     - [Changing data type of Columns](http://stackoverflow.com/questions/15891038/pandas-change-data-type-of-columns)
-    - [Getting a list of the column headers from a pandas DataFrame](http://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers)
+    - [Getting a list of the column headers from a DataFrame](http://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers)
     - [Converting list of dictionaries to Dataframe](http://stackoverflow.com/questions/20638006/convert-list-of-dictionaries-to-dataframe)
     - [Getting row count of pandas DataFrame](http://stackoverflow.com/questions/15943769/how-to-get-row-count-of-pandas-dataframe)
-    - [Most efficient way to loop through DataFrames with pandas](http://stackoverflow.com/questions/7837722/what-is-the-most-efficient-way-to-loop-through-dataframes-with-pandas)
-    - [Deleting DataFrame row in Pandas based on column value](http://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value)
+    - [Most efficient way to loop through DataFrames](http://stackoverflow.com/questions/7837722/what-is-the-most-efficient-way-to-loop-through-dataframes-with-pandas)
+    - [Deleting DataFrame row based on column value](http://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value)
     - [Dropping a list of rows from Pandas DataFrame](http://stackoverflow.com/questions/14661701/how-to-drop-a-list-of-rows-from-pandas-dataframe)
 
 
