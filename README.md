@@ -1,8 +1,8 @@
-This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.
+- This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.
 
-For a similar list of R tutorials for Data Science, NLP and Machine Learning, see [**this list**](https://github.com/ujjwalkarn/DataScienceR).
+- For a similar list of R tutorials for Data Science, NLP and Machine Learning, see [**this list**](https://github.com/ujjwalkarn/DataScienceR).
 
-For a comprehensive topic-wise list of machine learning and deep learning tutorials, articles and other resources, see [**this list**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
+- For a comprehensive topic-wise list of machine learning and deep learning tutorials, codes, articles and other resources, see [**this list**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
 ##Language
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
