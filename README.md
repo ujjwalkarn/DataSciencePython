@@ -39,9 +39,17 @@
 
 ##Linear Regression
 - [Linear Regression in Python](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb), [Blog Post](http://www.dataschool.io/linear-regression-in-python/)
+- [Linear Regression using Scikit Learn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+- [A friendly introduction to linear regression (using Python)](http://www.dataschool.io/linear-regression-in-python/)
+- [Linear Regression Example in Python](http://scipy-cookbook.readthedocs.io/items/LinearRegression.html)
+- [Regression analysis using Python StatsModels package](http://www.turingfinance.com/regression-analysis-using-python-statsmodels-and-quandl/)
 
 ##Logistic Regression
 - [Logistic Regression with scikit learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
+- [The Yhat Blog: Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
+- [Example of logistic regression in Python using scikit-learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
+- [TUTORIAL ON LOGISTIC REGRESSION AND OPTIMIZATION IN PYTHON](https://learningwithdata.wordpress.com/2015/04/30/tutorial-on-logistic-regression-and-optimization-in-python/)
+- [Using Logistic Regression in Python for Data Science](http://www.dummies.com/how-to/content/using-logistic-regression-in-python-for-data-scien.html)
 
 ##Neural Networks
 - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
