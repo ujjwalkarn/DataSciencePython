@@ -16,6 +16,7 @@
 - [Parsing values from a JSON file in Python](http://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python)
 - [**Python Quora FAQs**](https://www.quora.com/topic/Python-programming-language-1)
 - [time-complexity of various operations - list/dict - in current CPython](https://wiki.python.org/moin/TimeComplexity)
+- [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
 - Scripting in Python
     - [Python Scripting Tutorial](http://www.dreamsyssoft.com/python-scripting-tutorial/intro-tutorial.php)
     - [Scripting with Python](https://www.schrodinger.com//AcrobatFile.php?type=supportdocs&type2=&ident=404)
