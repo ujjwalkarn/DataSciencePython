@@ -7,6 +7,7 @@
 
 ##The Python Language
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
+- [Learn Python Wiki on Reddit](https://www.reddit.com/r/learnpython/wiki/index)
 - [Highest Voted Python Questions](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
 - [Python Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/3_Python_Basic_Concepts.ipynb)
 - [Quick Reference to Python](http://www.dataschool.io/python-quick-reference/)
