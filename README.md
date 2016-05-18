@@ -32,7 +32,7 @@
 - [**A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library**](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 - [**PyData Seattle 2015 Scikit-learn Tutorial**](https://github.com/jakevdp/sklearn_pydata2015), [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
 - [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets.](https://github.com/rhiever/sklearn-benchmarks)
-- [](http://stackoverflow.com/questions/11116697/how-to-get-most-informative-features-for-scikit-learn-classifiers)
+- [How to get most informative features for scikit-learn classifiers?](http://stackoverflow.com/questions/11116697/how-to-get-most-informative-features-for-scikit-learn-classifiers)
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
 - [**ML with scikit learn**](http://amueller.github.io/sklearn_tutorial/)
 - [Parallel and Large Scale Machine Learning with scikit-learn](https://speakerdeck.com/ogrisel/parallel-and-large-scale-machine-learning-with-scikit-learn), [Meetup](http://datasciencelondon.org/machine-learning-python-scikit-learn-ipython-dsldn-data-science-london-kaggle/)
