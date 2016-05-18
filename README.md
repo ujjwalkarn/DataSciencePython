@@ -27,7 +27,7 @@
 - [**How to compute precision, recall, accuracy and f1-score for the multiclass case with scikit learn?**](http://stackoverflow.com/questions/31421413/how-to-compute-precision-recall-accuracy-and-f1-score-for-the-multiclass-case)
 
 ##scikit-learn
-- [Wiki](https://en.wikipedia.org/wiki/Scikit-learn)
+- [scikit learn on Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
 - [**Introduction to machine learning with scikit-learn**](https://github.com/justmarkham/scikit-learn-videos), [**Videos!**](http://blog.kaggle.com/author/kevin-markham/)
 - [**A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library**](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 - [**PyData Seattle 2015 Scikit-learn Tutorial**](https://github.com/jakevdp/sklearn_pydata2015), [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
