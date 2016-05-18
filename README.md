@@ -8,6 +8,7 @@
 ##Language
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
 - [Highest Voted Python Questions](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
+- [Python Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/3_Python_Basic_Concepts.ipynb)
 - [Quick Reference to Python](http://www.dataschool.io/python-quick-reference/)
 - [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 - [**What does the yield keyword do in Python?**](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
@@ -82,6 +83,19 @@
 - [Building a decision tree from scratch in Python - a beginner's tutorial](http://www.patricklamle.com/Tutorials/Decision%20tree%20python/tuto_decision%20tree.html)
 - [Using Python to Build and Use a Simple Decision Tree Classifier](https://github.com/gumption/Python_for_Data_Science/blob/master/4_Python_Simple_Decision_Tree.ipynb)
 - [Decision trees in python with scikit-learn and pandas](http://chrisstrelioff.ws/sandbox/2015/06/08/decision_trees_in_python_with_scikit_learn_and_pandas.html)
+- [Code for simple decision tree in Python](https://github.com/gumption/Python_for_Data_Science/blob/master/simple_decision_tree.py)
+
+##Random FOrest with Python
+- [Getting Started with Random Forests: Titanic Competition on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests), [Python sample code](https://www.kaggle.com/c/digit-recognizer/forums/t/2299/getting-started-python-sample-code-random-forest)
+- [RandomForestClassifier vs ExtraTreesClassifier in scikit learn](http://stackoverflow.com/questions/22409855/randomforestclassifier-vs-extratreesclassifier-in-scikit-learn)
+- [Powerful Guide to learn Random Forest](http://www.analyticsvidhya.com/blog/2015/09/random-forest-algorithm-multiple-challenges/)
+- [How are Feature Importances in RandomForestClassifier determined?](http://stackoverflow.com/questions/15810339/how-are-feature-importances-in-randomforestclassifier-determined)
+- [Random forest interpretation with scikit-learn](http://blog.datadive.net/random-forest-interpretation-with-scikit-learn/)
+- [Random Forests in Python Tutorial](http://blog.yhat.com/posts/random-forests-in-python.html)
+- [Unbalanced classification using RandomForestClassifier in sklearn](http://stackoverflow.com/questions/20082674/unbalanced-classification-using-randomforestclassifier-in-sklearn)
+- [Random Forest with categorical features in sklearn](http://stackoverflow.com/questions/24715230/random-forest-with-categorical-features-in-sklearn)
+- [How to output RandomForest Classifier from python?](http://stackoverflow.com/questions/23000693/how-to-output-randomforest-classifier-from-python)
+
 
 
 ##Data Science with Python
@@ -90,7 +104,6 @@
 - [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
 - [**5 important Python Data Science advancements of 2015**](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.sp2c1la9z)
 - [Data Exploration with Numpy cheat sheet](http://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python)
-- [NLP](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 - [Querying Craiglist with Python](http://chrisholdgraf.com/querying-craigslist-with-python/?imm_mid=0d8940&cmp=em-data-na-na-newsltr_20150916)
 - [**An introduction to Numpy and Scipy**](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
 - [Create NBA Shot Charts](http://savvastjortjoglou.com/nba-shot-sharts.html)
@@ -120,19 +133,24 @@
     - [Dropping a list of rows from Pandas DataFrame](http://stackoverflow.com/questions/14661701/how-to-drop-a-list-of-rows-from-pandas-dataframe)
 
 
-##Text Mining
+##Text Mining in Python
 - [**NLP with Python ORiley Book**](http://www.nltk.org/book_1ed/), [Python 3](http://www.nltk.org/book/)
 - [Text Analytics : Intro and Tokenization](http://a4analytics.blogspot.sg/2015/03/text-mining-post-1.html)
 - [NLTK BOOK](http://www.nltk.org/book/ch01.html)
 - [Elegant N-gram Generation in Python](http://locallyoptimal.com/blog/2013/01/20/elegant-n-gram-generation-in-python/)
 - [**Computing N Grams using Python**](http://stackoverflow.com/questions/13423919/computing-n-grams-using-python)
 - [N-grams: Explanation + 2 applications](http://stackoverflow.com/questions/1032288/n-grams-explanation-2-applications)
+- [NLP Tutorial with Python](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 
-##Sentiment Analysis
+##Sentiment Analysis with Python
 - [Twitter-Sentiment-Analysis](https://github.com/ujjwalkarn/Twitter-Sentiment-Analysis)
+- [Basic Sentiment Analysis with Python](http://fjavieralba.com/basic-sentiment-analysis-with-python.html)
+- [What is the best way to do Sentiment Analysis with Python?](https://www.quora.com/What-is-the-best-way-to-do-Sentiment-Analysis-with-Python-1)
+- [How to Calculate Twitter Sentiment Using AlchemyAPI with Python](http://www.alchemyapi.com/developers/getting-started-guide/twitter-sentiment-analysis)
+- [Second Try: Sentiment Analysis in Python](http://andybromberg.com/sentiment-analysis-python/)
+- [Sentiment Analysis with Python NLTK Text Classification](http://text-processing.com/demo/sentiment/)
 
-
-##Pickle
+##Pickle: convert a python object (list, dict, etc.) into a character stream
 - [Python serialization - Why pickle?](http://stackoverflow.com/questions/8968884/python-serialization-why-pickle)
 - [**Serializing Python Objects**](http://www.diveinto.org/python3/serializing.html), [**Binary Files**](http://www.diveinto.org/python3/files.html#binary)
 - [What is Pickle in python ?](https://pythontips.com/2013/08/02/what-is-pickle-in-python/)
