@@ -24,7 +24,7 @@
 - [Table of Contents and Code Notebooks](https://github.com/rasbt/python-machine-learning-book/blob/master/README.md#table-of-contents-and-code-notebooks)
 - [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 - [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
-
+- [**How to compute precision, recall, accuracy and f1-score for the multiclass case with scikit learn?**](http://stackoverflow.com/questions/31421413/how-to-compute-precision-recall-accuracy-and-f1-score-for-the-multiclass-case)
 
 ##scikit-learn
 - [Wiki](https://en.wikipedia.org/wiki/Scikit-learn)
@@ -32,6 +32,7 @@
 - [**A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library**](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 - [**PyData Seattle 2015 Scikit-learn Tutorial**](https://github.com/jakevdp/sklearn_pydata2015), [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
 - [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets.](https://github.com/rhiever/sklearn-benchmarks)
+- [](http://stackoverflow.com/questions/11116697/how-to-get-most-informative-features-for-scikit-learn-classifiers)
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
 - [**ML with scikit learn**](http://amueller.github.io/sklearn_tutorial/)
 - [Parallel and Large Scale Machine Learning with scikit-learn](https://speakerdeck.com/ogrisel/parallel-and-large-scale-machine-learning-with-scikit-learn), [Meetup](http://datasciencelondon.org/machine-learning-python-scikit-learn-ipython-dsldn-data-science-london-kaggle/)
@@ -47,18 +48,22 @@
 ##Logistic Regression
 - [Logistic Regression with scikit learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
 - [Implementing the softmax function in Python](http://stackoverflow.com/questions/34968722/softmax-function-python)
+- [**What is the inverse of regularization strength in Logistic Regression? How should it affect my code?**](http://stackoverflow.com/questions/22851316/what-is-the-inverse-of-regularization-strength-in-logistic-regression-how-shoul)
 - [The Yhat Blog: Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
 - [Example of logistic regression in Python using scikit-learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
 - [TUTORIAL ON LOGISTIC REGRESSION AND OPTIMIZATION IN PYTHON](https://learningwithdata.wordpress.com/2015/04/30/tutorial-on-logistic-regression-and-optimization-in-python/)
 - [Using Logistic Regression in Python for Data Science](http://www.dummies.com/how-to/content/using-logistic-regression-in-python-for-data-scien.html)
 
-#k Nearest Neighbours
+##k Nearest Neighbours
 - [A good tutorial on implementing K Nearest Neighbors using scikit learn](http://scikit-learn.org/stable/modules/neighbors.html)
+- [**Is it possible to specify your own distance function using scikit-learn K-Means Clustering?**](http://stackoverflow.com/questions/5529625/is-it-possible-to-specify-your-own-distance-function-using-scikit-learn-k-means)
 - [Tutorial To Implement k-Nearest Neighbors in Python From Scratch](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 - [Implementing your own k-nearest neighbour algorithm using Python](https://blog.cambridgecoding.com/2016/01/16/machine-learning-under-the-hood-writing-your-own-k-nearest-neighbour-algorithm/)
 - [knn Python implementation on StackOverflow](http://stackoverflow.com/questions/5565935/k-nearest-neighbour-in-python)
 - [kNN with big sparse matrices in Python](http://stackoverflow.com/questions/20333092/knn-with-big-sparse-matrices-in-python)
 - [Sklearn kNN usage with a user defined metric](http://stackoverflow.com/questions/21052509/sklearn-knn-usage-with-a-user-defined-metric)
+
+
 
 ##Neural Networks
 - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
