@@ -46,10 +46,19 @@
 
 ##Logistic Regression
 - [Logistic Regression with scikit learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
+- [Implementing the softmax function in Python](http://stackoverflow.com/questions/34968722/softmax-function-python)
 - [The Yhat Blog: Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
 - [Example of logistic regression in Python using scikit-learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
 - [TUTORIAL ON LOGISTIC REGRESSION AND OPTIMIZATION IN PYTHON](https://learningwithdata.wordpress.com/2015/04/30/tutorial-on-logistic-regression-and-optimization-in-python/)
 - [Using Logistic Regression in Python for Data Science](http://www.dummies.com/how-to/content/using-logistic-regression-in-python-for-data-scien.html)
+
+#k Nearest Neighbours
+- [A good tutorial on implementing K Nearest Neighbors using scikit learn](http://scikit-learn.org/stable/modules/neighbors.html)
+- [Tutorial To Implement k-Nearest Neighbors in Python From Scratch](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
+- [Implementing your own k-nearest neighbour algorithm using Python](https://blog.cambridgecoding.com/2016/01/16/machine-learning-under-the-hood-writing-your-own-k-nearest-neighbour-algorithm/)
+- [knn Python implementation on StackOverflow](http://stackoverflow.com/questions/5565935/k-nearest-neighbour-in-python)
+- [kNN with big sparse matrices in Python](http://stackoverflow.com/questions/20333092/knn-with-big-sparse-matrices-in-python)
+- [Sklearn kNN usage with a user defined metric](http://stackoverflow.com/questions/21052509/sklearn-knn-usage-with-a-user-defined-metric)
 
 ##Neural Networks
 - [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
