@@ -34,7 +34,7 @@
 - [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets.](https://github.com/rhiever/sklearn-benchmarks)
 - [How to get most informative features for scikit-learn classifiers?](http://stackoverflow.com/questions/11116697/how-to-get-most-informative-features-for-scikit-learn-classifiers)
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
-- [**ML with scikit learn**](http://amueller.github.io/sklearn_tutorial/)
+- [**Machine Learning with scikit learn tutorial**](http://amueller.github.io/sklearn_tutorial/)
 - [Parallel and Large Scale Machine Learning with scikit-learn](https://speakerdeck.com/ogrisel/parallel-and-large-scale-machine-learning-with-scikit-learn), [Meetup](http://datasciencelondon.org/machine-learning-python-scikit-learn-ipython-dsldn-data-science-london-kaggle/)
 
 
