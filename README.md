@@ -15,7 +15,7 @@ This repo contains several Python tutorials for data analysis tasks.
     - [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
 
 ##Machine Learning with Python
-- [**AWESOME Python Machine Learning Book**](https://github.com/rasbt/python-machine-learning-book)
+- [**Python Machine Learning Book**](https://github.com/rasbt/python-machine-learning-book)
 - [Table of Contents and Code Notebooks](https://github.com/rasbt/python-machine-learning-book/blob/master/README.md#table-of-contents-and-code-notebooks)
 - [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 - [Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
