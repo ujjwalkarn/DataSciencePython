@@ -124,7 +124,7 @@
 - [**Which is better for data analysis: R or Python?**](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
 - [**Web scraping in Python**](https://github.com/ujjwalkarn/Web-Scraping)
 
-##Pandas
+##Pandas Library in Python
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 - [10 minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 - [Timeseries analysis using Pandas](http://nbviewer.jupyter.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb)
@@ -161,7 +161,7 @@
 - [Second Try: Sentiment Analysis in Python](http://andybromberg.com/sentiment-analysis-python/)
 - [Sentiment Analysis with Python NLTK Text Classification](http://text-processing.com/demo/sentiment/)
 
-##Pickle: convert a python object (list, dict, etc.) into a character stream
+##Pickle: convert a python object into a character stream
 - [Python serialization - Why pickle?](http://stackoverflow.com/questions/8968884/python-serialization-why-pickle)
 - [**Serializing Python Objects**](http://www.diveinto.org/python3/serializing.html), [**Binary Files**](http://www.diveinto.org/python3/files.html#binary)
 - [What is Pickle in python ?](https://pythontips.com/2013/08/02/what-is-pickle-in-python/)
