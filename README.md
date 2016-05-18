@@ -69,9 +69,12 @@
 
 
 ##Neural Networks in Python
-- [Implementing a Neural Network from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
+- [Implementing a Neural Network from scratch in Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/), [Code](https://github.com/dennybritz/nn-from-scratch)
+- [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 - [Speeding up your Neural Network with Theano and the gpu](http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/), [Code](https://github.com/dennybritz/nn-theano)
-- [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
+- [What is the best neural network library for Python?](https://www.quora.com/What-is-the-best-neural-network-library-for-Python)
+- [Recurrent Neural Net Tutorial in Python Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
+- [PyBrain: modular Machine Learning Library for Python](http://pybrain.org/)
 
 
 ##Decision Trees in Python
@@ -96,6 +99,14 @@
 - [Random Forest with categorical features in sklearn](http://stackoverflow.com/questions/24715230/random-forest-with-categorical-features-in-sklearn)
 - [How to output RandomForest Classifier from python?](http://stackoverflow.com/questions/23000693/how-to-output-randomforest-classifier-from-python)
 
+##Support Vector Machine in Python
+- [Fastest SVM implementation usable in Python](http://stackoverflow.com/questions/9299346/fastest-svm-implementation-usable-in-python)
+- [An example using python bindings for SVM library, LIBSVM](http://stackoverflow.com/questions/4214868/an-example-using-python-bindings-for-svm-library-libsvm)
+- [What is the best SVM library usable from Python?](https://www.quora.com/What-is-the-best-SVM-library-usable-from-Python)
+- [How does sklearn.svm.svc's function predict_proba() work internally?](http://stackoverflow.com/questions/15111408/how-does-sklearn-svm-svcs-function-predict-proba-work-internally)
+- [Support vector machine in Python using libsvm example of features](http://stackoverflow.com/questions/30991592/support-vector-machine-in-python-using-libsvm-example-of-features)
+- [Linear SVC Machine learning SVM example with Python](https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/)
+- [Understanding Support Vector Machine algorithm from examples (along with code)](http://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/)
 
 
 ##Data Science with Python
