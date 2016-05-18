@@ -88,7 +88,17 @@
 
 ##Pandas
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+- [10 minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 - [Timeseries analysis using Pandas](http://nbviewer.jupyter.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb)
+- [**“Large data” work flows using pandas**](http://stackoverflow.com/questions/14262433/large-data-work-flows-using-pandas)
+- Quick Operations on a Pandas DataFrame
+    - [Renaming Columns in Pandas](http://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
+    - [Deleting Columns from pandas DataFrame](http://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe)
+    - [Adding new Column to existing DataFrame in Python pandas](http://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas)
+    - [Add one Row in a pandas.DataFrame](http://stackoverflow.com/questions/10715965/add-one-row-in-a-pandas-dataframe)
+    - [Changing the order of DataFrame Columns](http://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns)
+    - [Changing data type of Columns](http://stackoverflow.com/questions/15891038/pandas-change-data-type-of-columns)
+    - [Getting a list of the column headers from a pandas DataFrame](http://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers)
 
 
 ##Text Mining
