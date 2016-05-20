@@ -190,3 +190,6 @@
 - [Beginners/BashScripting](https://help.ubuntu.com/community/Beginners/BashScripting)
 - [The Beginner’s Guide to Shell Scripting: The Basics](http://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/)
 - [Linux Shell Scripting Tutorial v1.05r3 A Beginner's handbook](http://www.freeos.com/guides/lsst/)
+
+##Azure Machine Learning with HDInsight
+- [**How to use Python components in an Apache Storm topology on HDInsight**](https://github.com/Azure-Samples/hdinsight-python-storm-wordcount)
