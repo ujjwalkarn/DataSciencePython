@@ -162,6 +162,9 @@
 - [How to Calculate Twitter Sentiment Using AlchemyAPI with Python](http://www.alchemyapi.com/developers/getting-started-guide/twitter-sentiment-analysis)
 - [Second Try: Sentiment Analysis in Python](http://andybromberg.com/sentiment-analysis-python/)
 - [Sentiment Analysis with Python NLTK Text Classification](http://text-processing.com/demo/sentiment/)
+- Codes and Explanation
+    - [**Sentiment Analysis with bag-of-words**](http://ataspinar.com/2016/01/21/sentiment-analysis-with-bag-of-words/)
+    - [**Sentiment Analysis with Naive Bayes**](http://ataspinar.com/2016/02/15/sentiment-analysis-with-the-naive-bayes-classifier/)
 
 ##Pickle: convert a python object into a character stream
 - [Python serialization - Why pickle?](http://stackoverflow.com/questions/8968884/python-serialization-why-pickle)
