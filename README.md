@@ -113,6 +113,7 @@
 
 ##Data Science with Python
 - [awesome-python](https://github.com/vinta/awesome-python)
+- [**An Introduction to Scientific Python (and a Bit of the Maths Behind It) – NumPy**](http://www.kdnuggets.com/2016/06/intro-scientific-python-numpy.html)
 - [Python for Data Science: Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/2_Data_Science_Basic_Concepts.ipynb)
 - [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
 - [**5 important Python Data Science advancements of 2015**](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.sp2c1la9z)
