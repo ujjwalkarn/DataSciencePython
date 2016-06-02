@@ -55,6 +55,7 @@
 
 ##Logistic Regression in Python
 - [Logistic Regression with scikit learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
+- [Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
 - [Implementing the softmax function in Python](http://stackoverflow.com/questions/34968722/softmax-function-python)
 - [**What is the inverse of regularization strength in Logistic Regression? How should it affect my code?**](http://stackoverflow.com/questions/22851316/what-is-the-inverse-of-regularization-strength-in-logistic-regression-how-shoul)
 - [The Yhat Blog: Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
