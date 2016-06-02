@@ -23,12 +23,14 @@
     - [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
 
 ##Machine Learning with Python
+- [Data Normalization in Python](http://blog.yhat.com/posts/data-normalization-in-python.html)
 - [**Python Machine Learning Book**](https://github.com/rasbt/python-machine-learning-book)
 - [Table of Contents and Code Notebooks](https://github.com/rasbt/python-machine-learning-book/blob/master/README.md#table-of-contents-and-code-notebooks)
 - [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 - [Machine Learning Algorithms Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [**How to compute precision, recall, accuracy and f1-score for the multiclass case with scikit learn?**](http://stackoverflow.com/questions/31421413/how-to-compute-precision-recall-accuracy-and-f1-score-for-the-multiclass-case)
 - [One Hot Encoding for Machine learning in Python](http://stackoverflow.com/questions/17469835/one-hot-encoding-for-machine-learning)
+- [**Building a (semi) Autonomous Drone with Python**](http://blog.yhat.com/posts/autonomous-droning-with-python.html)
 
 ##Scikit Learn
 - [scikit learn on Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
