@@ -6,6 +6,7 @@
 - [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
 ##The Python Language
+- [**Awesome Python**](https://github.com/vinta/awesome-python)
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
 - [Learn Python Wiki on Reddit](https://www.reddit.com/r/learnpython/wiki/index)
 - [Highest Voted Python Questions](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
