@@ -7,6 +7,7 @@
 
 ##The Python Language
 - [**Awesome Python**](https://github.com/vinta/awesome-python)
+- [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
 - [Learn Python Wiki on Reddit](https://www.reddit.com/r/learnpython/wiki/index)
 - [Highest Voted Python Questions](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
