@@ -134,6 +134,7 @@
 - [**Web scraping in Python**](https://github.com/ujjwalkarn/Web-Scraping)
 - [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
 - [Free Interactive Course: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Top voted Python data science questions](http://datascience.stackexchange.com/questions/tagged/python)
 
 ##Pandas Library in Python
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
