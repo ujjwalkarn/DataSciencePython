@@ -39,7 +39,7 @@
 - [**Introduction to machine learning with scikit-learn**](https://github.com/justmarkham/scikit-learn-videos), [**Videos!**](http://blog.kaggle.com/author/kevin-markham/)
 - [**A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library**](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 - [**PyData Seattle 2015 Scikit-learn Tutorial**](https://github.com/jakevdp/sklearn_pydata2015), [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
-- [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets.](https://github.com/rhiever/sklearn-benchmarks)
+- [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets](https://github.com/rhiever/sklearn-benchmarks), [Report results of sklearn benchmarks at openml.org](http://www.openml.org/)
 - [How to get most informative features for scikit-learn classifiers?](http://stackoverflow.com/questions/11116697/how-to-get-most-informative-features-for-scikit-learn-classifiers)
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
 - [**Machine Learning with scikit learn tutorial**](http://amueller.github.io/sklearn_tutorial/)
@@ -189,6 +189,8 @@
 - [How to cPickle dump and load separate dictionaries to the same file?](http://stackoverflow.com/questions/11641493/how-to-cpickle-dump-and-load-separate-dictionaries-to-the-same-file)
 - [**Understanding Pickling in Python**](http://stackoverflow.com/questions/7501947/understanding-pickling-in-python)
 
+##AutoML
+- [TPOT: A Python tool for automating data science](http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/), [GitHub repo](https://github.com/rhiever/tpot)
 
 ##Regex Related
 - [RegExr](http://regexr.com/)
