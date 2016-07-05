@@ -94,6 +94,7 @@
 - [Using Python to Build and Use a Simple Decision Tree Classifier](https://github.com/gumption/Python_for_Data_Science/blob/master/4_Python_Simple_Decision_Tree.ipynb)
 - [Decision trees in python with scikit-learn and pandas](http://chrisstrelioff.ws/sandbox/2015/06/08/decision_trees_in_python_with_scikit_learn_and_pandas.html)
 - [Code for simple decision tree in Python](https://github.com/gumption/Python_for_Data_Science/blob/master/simple_decision_tree.py)
+- [Lesson notebook: Regression and Classification Trees](http://nbviewer.jupyter.org/github/justmarkham/DAT8/blob/master/notebooks/17_decision_trees.ipynb)
 
 ##Random Forest with Python
 - [Getting Started with Random Forests: Titanic Competition on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests), [Python sample code](https://www.kaggle.com/c/digit-recognizer/forums/t/2299/getting-started-python-sample-code-random-forest)
@@ -105,6 +106,7 @@
 - [Unbalanced classification using RandomForestClassifier in sklearn](http://stackoverflow.com/questions/20082674/unbalanced-classification-using-randomforestclassifier-in-sklearn)
 - [Random Forest with categorical features in sklearn](http://stackoverflow.com/questions/24715230/random-forest-with-categorical-features-in-sklearn)
 - [How to output RandomForest Classifier from python?](http://stackoverflow.com/questions/23000693/how-to-output-randomforest-classifier-from-python)
+- [Lesson notebook: Ensembling, Bagging, and Random Forests](http://nbviewer.jupyter.org/github/justmarkham/DAT8/blob/master/notebooks/18_ensembling.ipynb)
 
 ##Support Vector Machine in Python
 - [Fastest SVM implementation usable in Python](http://stackoverflow.com/questions/9299346/fastest-svm-implementation-usable-in-python)
@@ -137,19 +139,27 @@
 - [10 minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 - [Timeseries analysis using Pandas](http://nbviewer.jupyter.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb)
 - [**“Large data” work flows using pandas**](http://stackoverflow.com/questions/14262433/large-data-work-flows-using-pandas)
+- [Easier data analysis with pandas (video series)](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 - Quick Operations on a Pandas DataFrame
-    - [Renaming Columns in Pandas](http://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
-    - [Deleting Columns from pandas DataFrame](http://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe)
+    - [Renaming Columns in Pandas](http://stackoverflow.com/questions/11346283/renaming-columns-in-pandas) ([video](https://www.youtube.com/watch?v=0uBirYFhizE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=5))
+    - [Deleting Columns from pandas DataFrame](http://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe) ([video](https://www.youtube.com/watch?v=gnUKkS964WQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=6))
     - [Adding new Column to existing DataFrame](http://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas)
     - [Add one Row in a pandas.DataFrame](http://stackoverflow.com/questions/10715965/add-one-row-in-a-pandas-dataframe)
     - [Changing the order of DataFrame Columns](http://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns)
-    - [Changing data type of Columns](http://stackoverflow.com/questions/15891038/pandas-change-data-type-of-columns)
+    - [Changing data type of Columns](http://stackoverflow.com/questions/15891038/pandas-change-data-type-of-columns) ([video](https://www.youtube.com/watch?v=V0AWyzVMf54&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=13))
     - [Getting a list of the column headers from a DataFrame](http://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers)
     - [Converting list of dictionaries to Dataframe](http://stackoverflow.com/questions/20638006/convert-list-of-dictionaries-to-dataframe)
     - [Getting row count of pandas DataFrame](http://stackoverflow.com/questions/15943769/how-to-get-row-count-of-pandas-dataframe)
     - [Most efficient way to loop through DataFrames](http://stackoverflow.com/questions/7837722/what-is-the-most-efficient-way-to-loop-through-dataframes-with-pandas)
     - [Deleting DataFrame row based on column value](http://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value)
     - [Dropping a list of rows from Pandas DataFrame](http://stackoverflow.com/questions/14661701/how-to-drop-a-list-of-rows-from-pandas-dataframe)
+    - [Sorting a DataFrame or a single column](https://www.youtube.com/watch?v=zY4doF6xSxY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=7)
+    - [Filtering DataFrame rows by column value](https://www.youtube.com/watch?v=2AFGPdNn4FM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=8)
+    - [Filtering DataFrame rows using multiple criteria](https://www.youtube.com/watch?v=YPItfQ87qjM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=9)
+    - [Dropping all non-numeric columns from a DataFrame](https://youtu.be/B-r9VuK80dk?t=4m31s)
+    - [Counting and removing missing values](https://www.youtube.com/watch?v=fCMrO_VzeL8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=16)
+    - [Selecting multiple rows and columns from a DataFrame](https://www.youtube.com/watch?v=xvpNA7bC8cs&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=19)
+    - [Reducing the size of a DataFrame](https://www.youtube.com/watch?v=wDYDYGyN_cw&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=21)
 
 
 ##Text Mining in Python
