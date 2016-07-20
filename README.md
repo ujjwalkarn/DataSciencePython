@@ -140,6 +140,7 @@
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 - [An Introduction to Scientific Python – Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
 - [10 minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+- [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 - [Timeseries analysis using Pandas](http://nbviewer.jupyter.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb)
 - [**“Large data” work flows using pandas**](http://stackoverflow.com/questions/14262433/large-data-work-flows-using-pandas)
 - [Easier data analysis with pandas (video series)](http://www.dataschool.io/easier-data-analysis-with-pandas/)
