@@ -118,6 +118,7 @@
 
 
 ##Data Science with Python
+- [*Data Science IPython Notebooks*](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [**An Introduction to Scientific Python (and a Bit of the Maths Behind It) – NumPy**](http://www.kdnuggets.com/2016/06/intro-scientific-python-numpy.html)
 - [Python for Data Science: Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/2_Data_Science_Basic_Concepts.ipynb)
