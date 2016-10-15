@@ -44,6 +44,7 @@
 - [**Web scraping in Python**](https://github.com/ujjwalkarn/Web-Scraping)
 - [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
 - [Free Interactive Course: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Python For Data Science - A Cheat Sheet For Beginners](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
 - [Top voted Python data science questions](http://datascience.stackexchange.com/questions/tagged/python)
 - [Awesome Python - Data Visualization](https://github.com/vinta/awesome-python#data-visualization)
 - [Awesome Python - Map Reduce](https://github.com/vinta/awesome-python#mapreduce)
