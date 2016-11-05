@@ -59,6 +59,7 @@
 - [Grouping in Pandas](http://blog.yhat.com/posts/grouping-pandas.html)
 - [**“Large data” work flows using pandas**](http://stackoverflow.com/questions/14262433/large-data-work-flows-using-pandas)
 - [Easier data analysis with pandas (video series)](http://www.dataschool.io/easier-data-analysis-with-pandas/)
+- [Pandas Basics Cheat Sheet](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)
 - Quick Operations on a Pandas DataFrame
     - [Renaming Columns in Pandas](http://stackoverflow.com/questions/11346283/renaming-columns-in-pandas) ([video](https://www.youtube.com/watch?v=0uBirYFhizE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=5))
     - [Deleting Columns from pandas DataFrame](http://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe) ([video](https://www.youtube.com/watch?v=gnUKkS964WQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=6))
