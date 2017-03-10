@@ -6,6 +6,7 @@
 - [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
 ##The Python Language
+- [Learn Python Codecademy](https://www.codecademy.com/learn/python#)
 - [**Awesome Python**](https://github.com/vinta/awesome-python)
 - [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
