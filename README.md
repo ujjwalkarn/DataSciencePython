@@ -145,6 +145,7 @@
 - [What is the best neural network library for Python?](https://www.quora.com/What-is-the-best-neural-network-library-for-Python)
 - [Recurrent Neural Net Tutorial in Python Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
 - [PyBrain: modular Machine Learning Library for Python](http://pybrain.org/)
+- [Neural Networks Tutorial – a Pathway to Deep Learning](http://www.adventuresinmachinelearning.com/neural-networks-tutorial/)
 
 
 ##Decision Trees in Python
