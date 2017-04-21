@@ -11,6 +11,7 @@
 - [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
 - [Learn Python Wiki on Reddit](https://www.reddit.com/r/learnpython/wiki/index)
+- [Learn 90% of Python in 90 Minutes](https://www.slideshare.net/MattHarrison4/learn-90)
 - [Highest Voted Python Questions](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
 - [Python Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/3_Python_Basic_Concepts.ipynb)
 - [Quick Reference to Python](http://www.dataschool.io/python-quick-reference/)
