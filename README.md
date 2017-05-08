@@ -7,6 +7,7 @@
 
 ## The Python Language
 - [Learn Python Codecademy](https://www.codecademy.com/learn/python#)
+- [Python 3 in one picture](https://fossbytes.com/wp-content/uploads/2015/09/python-3-in-one-pic.png)
 - [**Awesome Python**](https://github.com/vinta/awesome-python)
 - [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
