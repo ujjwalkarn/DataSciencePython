@@ -161,6 +161,7 @@
 - [Decision trees in python with scikit-learn and pandas](http://chrisstrelioff.ws/sandbox/2015/06/08/decision_trees_in_python_with_scikit_learn_and_pandas.html)
 - [Code for simple decision tree in Python](https://github.com/gumption/Python_for_Data_Science/blob/master/simple_decision_tree.py)
 - [Lesson notebook: Regression and Classification Trees](http://nbviewer.jupyter.org/github/justmarkham/DAT8/blob/master/notebooks/17_decision_trees.ipynb)
+- [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/)
 
 ## Random Forest with Python
 - [Getting Started with Random Forests: Titanic Competition on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests), [Python sample code](https://www.kaggle.com/c/digit-recognizer/forums/t/2299/getting-started-python-sample-code-random-forest)
