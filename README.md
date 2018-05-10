@@ -6,7 +6,6 @@
 - [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
 ## The Python Language
-- [Learn Python Codecademy](https://www.codecademy.com/learn/python#)
 - [Python 3 in one picture](https://fossbytes.com/wp-content/uploads/2015/09/python-3-in-one-pic.png)
 - [**Awesome Python**](https://github.com/vinta/awesome-python)
 - [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
@@ -25,6 +24,13 @@
     - [Python Scripting Tutorial](http://www.dreamsyssoft.com/python-scripting-tutorial/intro-tutorial.php)
     - [Scripting with Python](https://www.schrodinger.com//AcrobatFile.php?type=supportdocs&type2=&ident=404)
     - [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
+
+## Useful Online Courses
+- [Learn Python (Codecademy)](https://www.codecademy.com/learn/python#)
+- [Free Interactive Course: Intro to Python for Data Science (DataCamp)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Introduction to Computer Science and Programming Using Python (MIT)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+- [Python for Everybody](https://www.coursera.org/learn/python)
+- [Python Programming Essentials](https://www.coursera.org/learn/python-programming)
 
 ## Data Science with Python
 - [**Data Science IPython Notebooks**](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -46,7 +52,6 @@
 - [**Which is better for data analysis: R or Python?**](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
 - [**Web scraping in Python**](https://github.com/ujjwalkarn/Web-Scraping)
 - [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
-- [Free Interactive Course: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python For Data Science - A Cheat Sheet For Beginners](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
 - [Top voted Python data science questions](http://datascience.stackexchange.com/questions/tagged/python)
 - [Awesome Python - Data Visualization](https://github.com/vinta/awesome-python#data-visualization)
