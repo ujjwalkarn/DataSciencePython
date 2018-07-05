@@ -56,6 +56,7 @@
 - [Top voted Python data science questions](http://datascience.stackexchange.com/questions/tagged/python)
 - [Awesome Python - Data Visualization](https://github.com/vinta/awesome-python#data-visualization)
 - [Awesome Python - Map Reduce](https://github.com/vinta/awesome-python#mapreduce)
+- [A Comprehensive Guide to Sentiment Analysis](https://monkeylearn.com/sentiment-analysis/)
 
 ## Pandas Library in Python
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
