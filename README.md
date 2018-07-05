@@ -56,7 +56,6 @@
 - [Top voted Python data science questions](http://datascience.stackexchange.com/questions/tagged/python)
 - [Awesome Python - Data Visualization](https://github.com/vinta/awesome-python#data-visualization)
 - [Awesome Python - Map Reduce](https://github.com/vinta/awesome-python#mapreduce)
-- [A Comprehensive Guide to Sentiment Analysis](https://monkeylearn.com/sentiment-analysis/)
 
 ## Pandas Library in Python
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
@@ -202,6 +201,7 @@
 - [NLP Tutorial with Python](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 
 ## Sentiment Analysis with Python
+- [A Comprehensive Guide to Sentiment Analysis](https://monkeylearn.com/sentiment-analysis/)
 - [Twitter-Sentiment-Analysis](https://github.com/ujjwalkarn/Twitter-Sentiment-Analysis)
 - [Basic Sentiment Analysis with Python](http://fjavieralba.com/basic-sentiment-analysis-with-python.html)
 - [What is the best way to do Sentiment Analysis with Python?](https://www.quora.com/What-is-the-best-way-to-do-Sentiment-Analysis-with-Python-1)
