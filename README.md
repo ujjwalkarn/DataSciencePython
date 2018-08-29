@@ -24,7 +24,7 @@
     - [Python Scripting Tutorial](http://www.dreamsyssoft.com/python-scripting-tutorial/intro-tutorial.php)
     - [Scripting with Python](https://www.schrodinger.com//AcrobatFile.php?type=supportdocs&type2=&ident=404)
     - [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
-
+- [Classic Computer Scinece Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 ## Useful Online Courses
 - [Learn Python (Codecademy)](https://www.codecademy.com/learn/python#)
 - [Free Interactive Course: Intro to Python for Data Science (DataCamp)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
