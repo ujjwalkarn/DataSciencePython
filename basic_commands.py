@@ -1,5 +1,5 @@
 >>> a = ['a', 'b', 'c', 'd', 'e']
->>> for index, item in enumerate(a): print index, item
+>>> for index, item in enumerate(a): print index, item # enumerate function will generate an index for the item + item it self. 
 ...
 0 a
 1 b
@@ -37,6 +37,7 @@ This method returns index if found and -1 otherwise.
 str1 = "this is string example....wow!!!";
 str2 = "exam";
 
+# find function will print the position for the first character of the string if it's found!
 print str1.find(str2);
 print str1.find(str2, 10);
 print str1.find(str2, 40);
