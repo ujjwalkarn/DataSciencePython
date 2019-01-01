@@ -28,7 +28,7 @@ class MyListener(StreamListener):
  
     def on_data(self, data):
         try:
-            with open('C:\\Users\\ujjwal.karn\\Desktop\\Tweets\\python.json', 'a') as f:  #change location here
+            with open('location/file_name.txt', 'a') as f:  #change location here
                 f.write(data)
                 return True
         except BaseException as e:
