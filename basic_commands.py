@@ -10,7 +10,7 @@
 
 
 
-#convert a list to string:
+#convert a list to string:yes
 
 list1 = ['1', '2', '3']
 str1 = ''.join(list1)
