@@ -1,11 +1,11 @@
-# Python Data Science Tutorials 
-- This repo contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.
+# Data Science Using Python
+- This repository contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.
 
 - [**Curated list of R tutorials for Data Science, NLP and Machine Learning**](https://github.com/ujjwalkarn/DataScienceR).
 
 - [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
-## The Python Language
+## Python Language Basics to Experty
 - [Python 3 in one picture](https://fossbytes.com/wp-content/uploads/2015/09/python-3-in-one-pic.png)
 - [**Awesome Python**](https://github.com/vinta/awesome-python)
 - [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
