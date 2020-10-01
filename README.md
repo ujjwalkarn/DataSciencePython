@@ -49,7 +49,7 @@
 - [PythoR- Python meets R](http://nipunbatra.github.io/2016/01/pythor/)
 - [**How do I learn data analysis with Python?**](https://www.quora.com/How-do-I-learn-data-analysis-with-Python?redirected_qid=2464720)
 - [What are some interesting things to do with Python?](https://www.quora.com/Python-programming-language-What-are-some-interesting-things-to-do-with-Python?redirected_qid=2324227)
-- [**Which is better for data analysis: R or Python?**](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
+- [**Which is better for data analysis: R or Python?**](https://medium.com/@datadrivenscience/python-vs-r-for-data-science-and-the-winner-is-3ebb1a968197#:~:text=Since%20R%20was%20built%20as,better%20to%20do%20statistical%20learning.&text=Python%2C%20on%20the%20other%20hand,be%20integrated%20with%20web%20applications.)
 - [**Web scraping in Python**](https://github.com/ujjwalkarn/Web-Scraping)
 - [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
 - [Python For Data Science - A Cheat Sheet For Beginners](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
