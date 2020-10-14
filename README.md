@@ -9,7 +9,6 @@
 - [Python 3 in one picture](https://fossbytes.com/wp-content/uploads/2015/09/python-3-in-one-pic.png)
 - [**Awesome Python**](https://github.com/vinta/awesome-python)
 - [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
-- [**Dive Into Python**](http://www.diveintopython.net/index.html)
 - [Learn Python Wiki on Reddit](https://www.reddit.com/r/learnpython/wiki/index)
 - [Learn 90% of Python in 90 Minutes](https://www.slideshare.net/MattHarrison4/learn-90)
 - [Highest Voted Python Questions](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
