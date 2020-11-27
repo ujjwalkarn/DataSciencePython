@@ -228,6 +228,7 @@
 - [Pythex](http://pythex.org/)
 - [How to use Regular Expressions (Regex) in Microsoft Excel both in-cell and loops](http://stackoverflow.com/questions/22542834/how-to-use-regular-expressions-regex-in-microsoft-excel-both-in-cell-and-loops)
 - [Advanced Filters: Excel’s Amazing Alternative To Regex](http://searchengineland.com/advanced-filters-excels-amazing-alternative-to-regex-143680)
+- [ExtendsClass - Online regex tester and visualizer](https://extendsclass.com/regex-tester.html)
 
 ## Shell Scripting
 - [**Calling an external command in Python**](http://stackoverflow.com/questions/89228/calling-an-external-command-in-python)
