@@ -212,6 +212,9 @@
     - [**Sentiment Analysis with bag-of-words**](http://ataspinar.com/2016/01/21/sentiment-analysis-with-bag-of-words/)
     - [**Sentiment Analysis with Naive Bayes**](http://ataspinar.com/2016/02/15/sentiment-analysis-with-the-naive-bayes-classifier/)
 
+## Signal Processing with Python
+- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
+
 ## Pickle: convert a python object into a character stream
 - [Python serialization - Why pickle?](http://stackoverflow.com/questions/8968884/python-serialization-why-pickle)
 - [**Serializing Python Objects**](http://www.diveinto.org/python3/serializing.html), [**Binary Files**](http://www.diveinto.org/python3/files.html#binary)
