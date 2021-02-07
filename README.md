@@ -134,6 +134,7 @@
 - [Example of logistic regression in Python using scikit-learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
 - [TUTORIAL ON LOGISTIC REGRESSION AND OPTIMIZATION IN PYTHON](https://learningwithdata.wordpress.com/2015/04/30/tutorial-on-logistic-regression-and-optimization-in-python/)
 - [Using Logistic Regression in Python for Data Science](http://www.dummies.com/how-to/content/using-logistic-regression-in-python-for-data-scien.html)
+- [Understanding Logistic Regression Using Python](https://www.nbshare.io/notebook/415235001/Understanding-Logistic-Regression-Using-Python/)
 
 ## k Nearest Neighbours in Python
 - [A good tutorial on implementing K Nearest Neighbors using scikit learn](http://scikit-learn.org/stable/modules/neighbors.html)
