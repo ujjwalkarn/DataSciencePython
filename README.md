@@ -56,6 +56,7 @@
 - [Top voted Python data science questions](http://datascience.stackexchange.com/questions/tagged/python)
 - [Awesome Python - Data Visualization](https://github.com/vinta/awesome-python#data-visualization)
 - [Awesome Python - Map Reduce](https://github.com/vinta/awesome-python#mapreduce)
+- [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
 
 ## Pandas Library in Python
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
